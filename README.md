@@ -1,2 +1,6 @@
-# game-ban-thong
-this gift for my GF in the special day and i hope to you like.
+requidment (yêu cầu bắt buộc)<br>
+<br>
+HOW TO  RUN:<br>
+run run.py (can run by command "python .../run.py")<br>
+Thank For Visited<br>
+
